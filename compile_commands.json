@@ -1,1 +1,97 @@
-build/compile_commands.json
+[
+{
+  "directory": "/run/media/honeta/Data/code/Lab/CS144/libsponge",
+  "command": "/usr/bin/c++  -I/run/media/honeta/Data/code/Lab/CS144/libsponge/util -I/run/media/honeta/Data/code/Lab/CS144/libsponge/tcp_helpers -I/run/media/honeta/Data/code/Lab/CS144/libsponge  -std=c++17 -g -pedantic -pedantic-errors -Werror -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Weffc++ -Wold-style-cast -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/sponge.dir/byte_stream.cc.o -c /run/media/honeta/Data/code/Lab/CS144/libsponge/byte_stream.cc",
+  "file": "/run/media/honeta/Data/code/Lab/CS144/libsponge/byte_stream.cc"
+},
+{
+  "directory": "/run/media/honeta/Data/code/Lab/CS144/libsponge",
+  "command": "/usr/bin/c++  -I/run/media/honeta/Data/code/Lab/CS144/libsponge/util -I/run/media/honeta/Data/code/Lab/CS144/libsponge/tcp_helpers -I/run/media/honeta/Data/code/Lab/CS144/libsponge  -std=c++17 -g -pedantic -pedantic-errors -Werror -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Weffc++ -Wold-style-cast -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/sponge.dir/util/address.cc.o -c /run/media/honeta/Data/code/Lab/CS144/libsponge/util/address.cc",
+  "file": "/run/media/honeta/Data/code/Lab/CS144/libsponge/util/address.cc"
+},
+{
+  "directory": "/run/media/honeta/Data/code/Lab/CS144/libsponge",
+  "command": "/usr/bin/c++  -I/run/media/honeta/Data/code/Lab/CS144/libsponge/util -I/run/media/honeta/Data/code/Lab/CS144/libsponge/tcp_helpers -I/run/media/honeta/Data/code/Lab/CS144/libsponge  -std=c++17 -g -pedantic -pedantic-errors -Werror -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Weffc++ -Wold-style-cast -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/sponge.dir/util/buffer.cc.o -c /run/media/honeta/Data/code/Lab/CS144/libsponge/util/buffer.cc",
+  "file": "/run/media/honeta/Data/code/Lab/CS144/libsponge/util/buffer.cc"
+},
+{
+  "directory": "/run/media/honeta/Data/code/Lab/CS144/libsponge",
+  "command": "/usr/bin/c++  -I/run/media/honeta/Data/code/Lab/CS144/libsponge/util -I/run/media/honeta/Data/code/Lab/CS144/libsponge/tcp_helpers -I/run/media/honeta/Data/code/Lab/CS144/libsponge  -std=c++17 -g -pedantic -pedantic-errors -Werror -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Weffc++ -Wold-style-cast -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/sponge.dir/util/eventloop.cc.o -c /run/media/honeta/Data/code/Lab/CS144/libsponge/util/eventloop.cc",
+  "file": "/run/media/honeta/Data/code/Lab/CS144/libsponge/util/eventloop.cc"
+},
+{
+  "directory": "/run/media/honeta/Data/code/Lab/CS144/libsponge",
+  "command": "/usr/bin/c++  -I/run/media/honeta/Data/code/Lab/CS144/libsponge/util -I/run/media/honeta/Data/code/Lab/CS144/libsponge/tcp_helpers -I/run/media/honeta/Data/code/Lab/CS144/libsponge  -std=c++17 -g -pedantic -pedantic-errors -Werror -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Weffc++ -Wold-style-cast -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/sponge.dir/util/file_descriptor.cc.o -c /run/media/honeta/Data/code/Lab/CS144/libsponge/util/file_descriptor.cc",
+  "file": "/run/media/honeta/Data/code/Lab/CS144/libsponge/util/file_descriptor.cc"
+},
+{
+  "directory": "/run/media/honeta/Data/code/Lab/CS144/libsponge",
+  "command": "/usr/bin/c++  -I/run/media/honeta/Data/code/Lab/CS144/libsponge/util -I/run/media/honeta/Data/code/Lab/CS144/libsponge/tcp_helpers -I/run/media/honeta/Data/code/Lab/CS144/libsponge  -std=c++17 -g -pedantic -pedantic-errors -Werror -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Weffc++ -Wold-style-cast -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/sponge.dir/util/parser.cc.o -c /run/media/honeta/Data/code/Lab/CS144/libsponge/util/parser.cc",
+  "file": "/run/media/honeta/Data/code/Lab/CS144/libsponge/util/parser.cc"
+},
+{
+  "directory": "/run/media/honeta/Data/code/Lab/CS144/libsponge",
+  "command": "/usr/bin/c++  -I/run/media/honeta/Data/code/Lab/CS144/libsponge/util -I/run/media/honeta/Data/code/Lab/CS144/libsponge/tcp_helpers -I/run/media/honeta/Data/code/Lab/CS144/libsponge  -std=c++17 -g -pedantic -pedantic-errors -Werror -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Weffc++ -Wold-style-cast -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/sponge.dir/util/socket.cc.o -c /run/media/honeta/Data/code/Lab/CS144/libsponge/util/socket.cc",
+  "file": "/run/media/honeta/Data/code/Lab/CS144/libsponge/util/socket.cc"
+},
+{
+  "directory": "/run/media/honeta/Data/code/Lab/CS144/libsponge",
+  "command": "/usr/bin/c++  -I/run/media/honeta/Data/code/Lab/CS144/libsponge/util -I/run/media/honeta/Data/code/Lab/CS144/libsponge/tcp_helpers -I/run/media/honeta/Data/code/Lab/CS144/libsponge  -std=c++17 -g -pedantic -pedantic-errors -Werror -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Weffc++ -Wold-style-cast -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/sponge.dir/util/tun.cc.o -c /run/media/honeta/Data/code/Lab/CS144/libsponge/util/tun.cc",
+  "file": "/run/media/honeta/Data/code/Lab/CS144/libsponge/util/tun.cc"
+},
+{
+  "directory": "/run/media/honeta/Data/code/Lab/CS144/libsponge",
+  "command": "/usr/bin/c++  -I/run/media/honeta/Data/code/Lab/CS144/libsponge/util -I/run/media/honeta/Data/code/Lab/CS144/libsponge/tcp_helpers -I/run/media/honeta/Data/code/Lab/CS144/libsponge  -std=c++17 -g -pedantic -pedantic-errors -Werror -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Weffc++ -Wold-style-cast -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/sponge.dir/util/util.cc.o -c /run/media/honeta/Data/code/Lab/CS144/libsponge/util/util.cc",
+  "file": "/run/media/honeta/Data/code/Lab/CS144/libsponge/util/util.cc"
+},
+{
+  "directory": "/run/media/honeta/Data/code/Lab/CS144/apps",
+  "command": "/usr/bin/c++  -I/run/media/honeta/Data/code/Lab/CS144/libsponge/util -I/run/media/honeta/Data/code/Lab/CS144/libsponge/tcp_helpers -I/run/media/honeta/Data/code/Lab/CS144/libsponge  -std=c++17 -g -pedantic -pedantic-errors -Werror -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Weffc++ -Wold-style-cast -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/webget.dir/webget.cc.o -c /run/media/honeta/Data/code/Lab/CS144/apps/webget.cc",
+  "file": "/run/media/honeta/Data/code/Lab/CS144/apps/webget.cc"
+},
+{
+  "directory": "/run/media/honeta/Data/code/Lab/CS144/tests",
+  "command": "/usr/bin/c++  -I/run/media/honeta/Data/code/Lab/CS144/libsponge/util -I/run/media/honeta/Data/code/Lab/CS144/libsponge/tcp_helpers -I/run/media/honeta/Data/code/Lab/CS144/libsponge  -std=c++17 -g -pedantic -pedantic-errors -Werror -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Weffc++ -Wold-style-cast -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/spongechecks.dir/byte_stream_test_harness.cc.o -c /run/media/honeta/Data/code/Lab/CS144/tests/byte_stream_test_harness.cc",
+  "file": "/run/media/honeta/Data/code/Lab/CS144/tests/byte_stream_test_harness.cc"
+},
+{
+  "directory": "/run/media/honeta/Data/code/Lab/CS144/tests",
+  "command": "/usr/bin/c++  -I/run/media/honeta/Data/code/Lab/CS144/libsponge/util -I/run/media/honeta/Data/code/Lab/CS144/libsponge/tcp_helpers -I/run/media/honeta/Data/code/Lab/CS144/libsponge  -std=c++17 -g -pedantic -pedantic-errors -Werror -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Weffc++ -Wold-style-cast -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/byte_stream_construction.dir/byte_stream_construction.cc.o -c /run/media/honeta/Data/code/Lab/CS144/tests/byte_stream_construction.cc",
+  "file": "/run/media/honeta/Data/code/Lab/CS144/tests/byte_stream_construction.cc"
+},
+{
+  "directory": "/run/media/honeta/Data/code/Lab/CS144/tests",
+  "command": "/usr/bin/c++  -I/run/media/honeta/Data/code/Lab/CS144/libsponge/util -I/run/media/honeta/Data/code/Lab/CS144/libsponge/tcp_helpers -I/run/media/honeta/Data/code/Lab/CS144/libsponge  -std=c++17 -g -pedantic -pedantic-errors -Werror -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Weffc++ -Wold-style-cast -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/byte_stream_one_write.dir/byte_stream_one_write.cc.o -c /run/media/honeta/Data/code/Lab/CS144/tests/byte_stream_one_write.cc",
+  "file": "/run/media/honeta/Data/code/Lab/CS144/tests/byte_stream_one_write.cc"
+},
+{
+  "directory": "/run/media/honeta/Data/code/Lab/CS144/tests",
+  "command": "/usr/bin/c++  -I/run/media/honeta/Data/code/Lab/CS144/libsponge/util -I/run/media/honeta/Data/code/Lab/CS144/libsponge/tcp_helpers -I/run/media/honeta/Data/code/Lab/CS144/libsponge  -std=c++17 -g -pedantic -pedantic-errors -Werror -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Weffc++ -Wold-style-cast -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/byte_stream_two_writes.dir/byte_stream_two_writes.cc.o -c /run/media/honeta/Data/code/Lab/CS144/tests/byte_stream_two_writes.cc",
+  "file": "/run/media/honeta/Data/code/Lab/CS144/tests/byte_stream_two_writes.cc"
+},
+{
+  "directory": "/run/media/honeta/Data/code/Lab/CS144/tests",
+  "command": "/usr/bin/c++  -I/run/media/honeta/Data/code/Lab/CS144/libsponge/util -I/run/media/honeta/Data/code/Lab/CS144/libsponge/tcp_helpers -I/run/media/honeta/Data/code/Lab/CS144/libsponge  -std=c++17 -g -pedantic -pedantic-errors -Werror -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Weffc++ -Wold-style-cast -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/byte_stream_capacity.dir/byte_stream_capacity.cc.o -c /run/media/honeta/Data/code/Lab/CS144/tests/byte_stream_capacity.cc",
+  "file": "/run/media/honeta/Data/code/Lab/CS144/tests/byte_stream_capacity.cc"
+},
+{
+  "directory": "/run/media/honeta/Data/code/Lab/CS144/tests",
+  "command": "/usr/bin/c++  -I/run/media/honeta/Data/code/Lab/CS144/libsponge/util -I/run/media/honeta/Data/code/Lab/CS144/libsponge/tcp_helpers -I/run/media/honeta/Data/code/Lab/CS144/libsponge  -std=c++17 -g -pedantic -pedantic-errors -Werror -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Weffc++ -Wold-style-cast -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/byte_stream_many_writes.dir/byte_stream_many_writes.cc.o -c /run/media/honeta/Data/code/Lab/CS144/tests/byte_stream_many_writes.cc",
+  "file": "/run/media/honeta/Data/code/Lab/CS144/tests/byte_stream_many_writes.cc"
+},
+{
+  "directory": "/run/media/honeta/Data/code/Lab/CS144/doctests",
+  "command": "/usr/bin/c++  -I/run/media/honeta/Data/code/Lab/CS144/libsponge/util -I/run/media/honeta/Data/code/Lab/CS144/libsponge/tcp_helpers -I/run/media/honeta/Data/code/Lab/CS144/libsponge  -std=c++17 -g -pedantic -pedantic-errors -Werror -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Weffc++ -Wold-style-cast -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/address_dt.dir/address_dt.cc.o -c /run/media/honeta/Data/code/Lab/CS144/doctests/address_dt.cc",
+  "file": "/run/media/honeta/Data/code/Lab/CS144/doctests/address_dt.cc"
+},
+{
+  "directory": "/run/media/honeta/Data/code/Lab/CS144/doctests",
+  "command": "/usr/bin/c++  -I/run/media/honeta/Data/code/Lab/CS144/libsponge/util -I/run/media/honeta/Data/code/Lab/CS144/libsponge/tcp_helpers -I/run/media/honeta/Data/code/Lab/CS144/libsponge  -std=c++17 -g -pedantic -pedantic-errors -Werror -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Weffc++ -Wold-style-cast -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/parser_dt.dir/parser_dt.cc.o -c /run/media/honeta/Data/code/Lab/CS144/doctests/parser_dt.cc",
+  "file": "/run/media/honeta/Data/code/Lab/CS144/doctests/parser_dt.cc"
+},
+{
+  "directory": "/run/media/honeta/Data/code/Lab/CS144/doctests",
+  "command": "/usr/bin/c++  -I/run/media/honeta/Data/code/Lab/CS144/libsponge/util -I/run/media/honeta/Data/code/Lab/CS144/libsponge/tcp_helpers -I/run/media/honeta/Data/code/Lab/CS144/libsponge  -std=c++17 -g -pedantic -pedantic-errors -Werror -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Weffc++ -Wold-style-cast -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/socket_dt.dir/socket_dt.cc.o -c /run/media/honeta/Data/code/Lab/CS144/doctests/socket_dt.cc",
+  "file": "/run/media/honeta/Data/code/Lab/CS144/doctests/socket_dt.cc"
+}
+]
