@@ -108,6 +108,34 @@ tests/CMakeFiles/byte_stream_one_write.dir/byte_stream_one_write.cc.o: \
  /usr/include/asm-generic/errno-base.h /usr/include/bits/types/error_t.h \
  /usr/include/c++/11.1.0/bits/charconv.h \
  /usr/include/c++/11.1.0/bits/basic_string.tcc \
+ /usr/include/c++/11.1.0/deque \
+ /usr/include/c++/11.1.0/bits/stl_uninitialized.h \
+ /usr/include/c++/11.1.0/bits/stl_deque.h \
+ /usr/include/c++/11.1.0/bits/deque.tcc /usr/include/c++/11.1.0/iostream \
+ /usr/include/c++/11.1.0/ostream /usr/include/c++/11.1.0/ios \
+ /usr/include/c++/11.1.0/exception \
+ /usr/include/c++/11.1.0/bits/exception_ptr.h \
+ /usr/include/c++/11.1.0/bits/cxxabi_init_exception.h \
+ /usr/include/c++/11.1.0/typeinfo \
+ /usr/include/c++/11.1.0/bits/nested_exception.h \
+ /usr/include/c++/11.1.0/bits/ios_base.h \
+ /usr/include/c++/11.1.0/bits/locale_classes.h \
+ /usr/include/c++/11.1.0/bits/locale_classes.tcc \
+ /usr/include/c++/11.1.0/system_error \
+ /usr/include/c++/11.1.0/x86_64-pc-linux-gnu/bits/error_constants.h \
+ /usr/include/c++/11.1.0/stdexcept /usr/include/c++/11.1.0/streambuf \
+ /usr/include/c++/11.1.0/bits/streambuf.tcc \
+ /usr/include/c++/11.1.0/bits/basic_ios.h \
+ /usr/include/c++/11.1.0/bits/locale_facets.h \
+ /usr/include/c++/11.1.0/cwctype /usr/include/wctype.h \
+ /usr/include/bits/wctype-wchar.h \
+ /usr/include/c++/11.1.0/x86_64-pc-linux-gnu/bits/ctype_base.h \
+ /usr/include/c++/11.1.0/bits/streambuf_iterator.h \
+ /usr/include/c++/11.1.0/x86_64-pc-linux-gnu/bits/ctype_inline.h \
+ /usr/include/c++/11.1.0/bits/locale_facets.tcc \
+ /usr/include/c++/11.1.0/bits/basic_ios.tcc \
+ /usr/include/c++/11.1.0/bits/ostream.tcc /usr/include/c++/11.1.0/istream \
+ /usr/include/c++/11.1.0/bits/istream.tcc \
  /run/media/honeta/Data/code/Lab/CS144/tests/byte_stream_test_harness.hh \
  /run/media/honeta/Data/code/Lab/CS144/libsponge/util/util.hh \
  /usr/include/c++/11.1.0/algorithm /usr/include/c++/11.1.0/utility \
@@ -124,44 +152,22 @@ tests/CMakeFiles/byte_stream_one_write.dir/byte_stream_one_write.cc.o: \
  /usr/include/c++/11.1.0/bits/invoke.h \
  /usr/include/c++/11.1.0/bits/refwrap.h \
  /usr/include/c++/11.1.0/bits/std_function.h \
- /usr/include/c++/11.1.0/typeinfo /usr/include/c++/11.1.0/unordered_map \
+ /usr/include/c++/11.1.0/unordered_map \
  /usr/include/c++/11.1.0/ext/aligned_buffer.h \
  /usr/include/c++/11.1.0/bits/hashtable.h \
  /usr/include/c++/11.1.0/bits/hashtable_policy.h \
  /usr/include/c++/11.1.0/bits/node_handle.h \
  /usr/include/c++/11.1.0/bits/unordered_map.h \
  /usr/include/c++/11.1.0/bits/erase_if.h /usr/include/c++/11.1.0/vector \
- /usr/include/c++/11.1.0/bits/stl_uninitialized.h \
  /usr/include/c++/11.1.0/bits/stl_vector.h \
  /usr/include/c++/11.1.0/bits/stl_bvector.h \
  /usr/include/c++/11.1.0/bits/vector.tcc \
  /usr/include/c++/11.1.0/pstl/execution_defs.h \
  /usr/include/c++/11.1.0/cstddef /usr/include/c++/11.1.0/iterator \
  /usr/include/c++/11.1.0/bits/stream_iterator.h \
- /usr/include/c++/11.1.0/bits/streambuf_iterator.h \
- /usr/include/c++/11.1.0/streambuf \
- /usr/include/c++/11.1.0/bits/ios_base.h \
- /usr/include/c++/11.1.0/bits/locale_classes.h \
- /usr/include/c++/11.1.0/bits/locale_classes.tcc \
- /usr/include/c++/11.1.0/system_error \
- /usr/include/c++/11.1.0/x86_64-pc-linux-gnu/bits/error_constants.h \
- /usr/include/c++/11.1.0/stdexcept /usr/include/c++/11.1.0/exception \
- /usr/include/c++/11.1.0/bits/exception_ptr.h \
- /usr/include/c++/11.1.0/bits/cxxabi_init_exception.h \
- /usr/include/c++/11.1.0/bits/nested_exception.h \
- /usr/include/c++/11.1.0/bits/streambuf.tcc \
- /usr/include/c++/11.1.0/ostream /usr/include/c++/11.1.0/ios \
- /usr/include/c++/11.1.0/bits/basic_ios.h \
- /usr/include/c++/11.1.0/bits/locale_facets.h \
- /usr/include/c++/11.1.0/cwctype /usr/include/wctype.h \
- /usr/include/bits/wctype-wchar.h \
- /usr/include/c++/11.1.0/x86_64-pc-linux-gnu/bits/ctype_base.h \
- /usr/include/c++/11.1.0/x86_64-pc-linux-gnu/bits/ctype_inline.h \
- /usr/include/c++/11.1.0/bits/locale_facets.tcc \
- /usr/include/c++/11.1.0/bits/basic_ios.tcc \
- /usr/include/c++/11.1.0/bits/ostream.tcc /usr/include/c++/11.1.0/random \
- /usr/include/c++/11.1.0/cmath /usr/include/math.h \
- /usr/include/bits/math-vector.h /usr/include/bits/libm-simd-decl-stubs.h \
+ /usr/include/c++/11.1.0/random /usr/include/c++/11.1.0/cmath \
+ /usr/include/math.h /usr/include/bits/math-vector.h \
+ /usr/include/bits/libm-simd-decl-stubs.h \
  /usr/include/bits/flt-eval-method.h /usr/include/bits/fp-logb.h \
  /usr/include/bits/fp-fast.h \
  /usr/include/bits/mathcalls-helper-functions.h \
@@ -184,8 +190,7 @@ tests/CMakeFiles/byte_stream_one_write.dir/byte_stream_one_write.cc.o: \
  /usr/include/c++/11.1.0/bits/random.tcc /usr/include/c++/11.1.0/numeric \
  /usr/include/c++/11.1.0/bits/stl_numeric.h /usr/include/c++/11.1.0/bit \
  /usr/include/c++/11.1.0/pstl/glue_numeric_defs.h \
- /usr/include/c++/11.1.0/iostream /usr/include/c++/11.1.0/istream \
- /usr/include/c++/11.1.0/bits/istream.tcc /usr/include/c++/11.1.0/memory \
+ /usr/include/c++/11.1.0/memory \
  /usr/include/c++/11.1.0/bits/stl_raw_storage_iter.h \
  /usr/include/c++/11.1.0/bits/align.h \
  /usr/include/c++/11.1.0/bits/unique_ptr.h \
